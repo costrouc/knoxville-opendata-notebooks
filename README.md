@@ -7,6 +7,8 @@ provide easily accessible `csv` and `json` files of the data.
 I will be providing a binder notebook to help with expoloration of the
 data.
 
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/openknoxdata/master?urlpath=lab/tree/notebooks/Untitled.ipynb)
+
 # Resources
 
 Here are some the data sources listed on the [knoxville open data website](http://knoxvilletn.gov/government/opendata/). A checked item indicates that the data has been parsed or is being worked on.

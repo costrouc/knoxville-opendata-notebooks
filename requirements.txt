@@ -1,0 +1,8 @@
+requests
+requests-cache
+requests-html
+jupyterlab
+pypdf2
+numpy
+matplotlib
+pandas
