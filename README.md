@@ -1,3 +1,7 @@
+**All issues and contributions should be done on
+[Gitlab](https://gitlab.com/costrouc/openknoxdata-notebooks). Github
+is used only as a mirror for visibility**
+
 # Knoxville OpenData Notebooks
 
 I wanted to create some parsers on the data that knoxville provides
@@ -54,7 +58,9 @@ Here are some the data sources listed on the [knoxville open data website](http:
 # Contributing
 
 All contributions, bug reports, bug fixes, documentation improvements,
-enhancements and ideas are welcome!
+enhancements and ideas are welcome! These should be submitted at the
+[Gitlab repository](https://gitlab.com/costrouc/openknoxdata-notebooks). Github
+is only used for visibility.
 
 Contributors:
  - Chris Ostrouchov [(maintainer)](https://gitlab.com/costrouc/)
