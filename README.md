@@ -1,5 +1,5 @@
 **All issues and contributions should be done on
-[Gitlab](https://gitlab.com/costrouc/openknoxdata-notebooks). Github
+[Gitlab](https://gitlab.com/costrouc/knoxville-opendata-notebooks). Github
 is used only as a mirror for visibility**
 
 # Knoxville OpenData Notebooks
@@ -11,7 +11,7 @@ provide easily accessible `csv` and `json` files of the data.
 I will be providing a binder notebook to help with expoloration of the
 data.
 
-[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/openknoxdata-notebooks/master?urlpath=lab/tree/notebooks/Untitled.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Untitled.ipynb)
 
 # Resources
 
@@ -59,8 +59,10 @@ Here are some the data sources listed on the [knoxville open data website](http:
 
 All contributions, bug reports, bug fixes, documentation improvements,
 enhancements and ideas are welcome! These should be submitted at the
-[Gitlab repository](https://gitlab.com/costrouc/openknoxdata-notebooks). Github
-is only used for visibility.
+[Gitlab
+repository](https://gitlab.com/costrouc/knoxville-opendata-notebooks). Github
+is only used for visibility. If you are storing any data files with
+the commit make sure to use [LFS](https://git-lfs.github.com/).
 
 Contributors:
  - Chris Ostrouchov [(maintainer)](https://gitlab.com/costrouc/)
