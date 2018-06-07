@@ -11,7 +11,7 @@ provide easily accessible `csv` and `json` files of the data.
 I will be providing a binder notebook to help with expoloration of the
 data.
 
-[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Untitled.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
 
 # Resources
 
@@ -25,7 +25,7 @@ Here are some the data sources listed on the [knoxville open data website](http:
 
  - [ ] [City Council Agendas/Minutes: Agenda files and meeting minutes are available for past and current City Council meetings and Beer Board meetings](http://knoxvilletn.gov/citycouncil)
 
- - [ ] [Crime Map: View local crime stats on the LexisNexis Community Crime Map](http://communitycrimemap.com/?address=Knoxville,TN)
+ - [X] [Crime Map: View local crime stats on the LexisNexis Community Crime Map](http://communitycrimemap.com/?address=Knoxville,TN)
 
  - [ ] [East Tennessee Index: The East Tennessee Index compiles demographic, workforce, housing, socioeconomic and other data for a nine-county region around Knoxville.](http://etindex.org/)
 
@@ -53,7 +53,7 @@ Here are some the data sources listed on the [knoxville open data website](http:
 
  - [ ] [TIFs and PILOTs: You can find full details of all projects that have received City assistance in the form of Tax-Increment Financing and Payments In Lieu of Taxes.](http://knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=201883)
 
- - [ ] [Tree Inventory: You can see a map of every tree on public property in the City of Knoxville identified by species. You can even send an email to your favorite tree!](http://www.kgis.org/maps/treeinventory.html)
+ - [X] [Tree Inventory: You can see a map of every tree on public property in the City of Knoxville identified by species. You can even send an email to your favorite tree!](http://www.kgis.org/maps/treeinventory.html)
 
 # Contributing
 
