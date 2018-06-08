@@ -162,13 +162,13 @@ QUERY_STRING = {
 }
 
 
-def get_and_write_crime_dateframes():
+def get_and_write_crime_dateframes(years=10):
     craweled_dates = {}
     session = requests.session()
     session.get('http://communitycrimemap.com/?address=Knoxville,TN') # initialize cookies
 
-    for i in range(10 * 365):
-        start_date = dt.date(year=2018, month=6, day=8) - dt.timedelta(days=i)
+    for i in range(years * 365):
+        start_date = dt.date.today() - dt.timedelta(days=i)
         if start_date in craweled_dates:
             continue
         craweled_dates[start_date] = crawl_crime_page_for_date(start_date, session)
