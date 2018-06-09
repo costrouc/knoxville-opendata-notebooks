@@ -8,7 +8,7 @@ I wanted to create some parsers on the data that knoxville provides
 and make it more accessible for others. The goal of this work is to
 provide easily accessible `csv` and `json` files of the data.
 
-I will be providing a binder notebook to help with expoloration of the
+I will be providing a binder notebook to help with exploration of the
 data.
 
 [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
