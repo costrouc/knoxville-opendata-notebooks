@@ -106,3 +106,6 @@ venv.bak/
 
 # dont save sqlite databases used for cache
 *.sqlite
+
+# don't save source file used to get Knoxville city boundary, only need to save final filtered file.
+/data/tn_city_boundaries.geojson

@@ -1,0 +1,19 @@
+name: knoxvilleopendata
+
+dependencies:
+  - python = 3.6
+  - requests
+  - jupyterlab
+  - pypdf2
+  - nodejs
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - conda-forge:
+    - requests-cache
+    - ipyleaflet
+    - shapely
+    - fiona
+  - pip:
+    - requests-html
