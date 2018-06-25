@@ -1,5 +1,6 @@
 name: knoxvilleopendata
-
+channels:
+  - conda-forge
 dependencies:
   - python = 3.6
   - requests
@@ -10,10 +11,10 @@ dependencies:
   - matplotlib
   - pandas
   - geopandas
-  - conda-forge:
-    - requests-cache
-    - ipyleaflet
-    - shapely
-    - fiona
+  # conda-forge
+  - requests-cache
+  - ipyleaflet
+  - shapely
+  - fiona
   - pip:
     - requests-html

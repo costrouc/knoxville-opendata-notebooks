@@ -15,6 +15,10 @@ requests-html = "*"
 numpy = "*"
 matplotlib = "*"
 pandas = "*"
+geopandas = "*"
+ipyleaflet = "*"
+shapely = "*"
+fiona = "*"
 
 
 [dev-packages]
