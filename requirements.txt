@@ -1,8 +1,21 @@
+# Web Scraping
 requests
 requests-cache
 requests-html
-jupyterlab
 pypdf2
+
+# Notebook
+jupyterlab
+nodejs
+
+# ML Analysis
 numpy
 matplotlib
 pandas
+scikit-learn
+
+# GIS Analysis
+ipyleaflet
+shapely
+fiona
+geojson
