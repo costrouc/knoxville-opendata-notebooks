@@ -16,6 +16,7 @@ scikit-learn
 
 # GIS Analysis
 ipyleaflet
+ipywidgets
 shapely
 fiona
 geojson
