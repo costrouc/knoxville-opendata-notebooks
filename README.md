@@ -2,7 +2,7 @@
 [Gitlab](https://gitlab.com/costrouc/knoxville-opendata-notebooks). Github
 is used only as a mirror for visibility**
 
-![knoxville zoning](images/zoning-colors.png)
+![knoxville zoning](images/zoning-colors-trimmed.png)
 
 # Knoxville OpenData Notebooks
 
