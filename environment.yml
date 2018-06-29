@@ -15,6 +15,5 @@ dependencies:
   - requests-cache
   - ipyleaflet
   - shapely
-  - fiona
   - pip:
     - requests-html
