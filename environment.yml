@@ -2,15 +2,15 @@ name: knoxvilleopendata
 channels:
   - conda-forge
 dependencies:
-  - python = 3.6
+  - python=3.6
+  - geopandas
   - requests
   - jupyterlab
   - pypdf2
   - nodejs
-  - numpy
-  - matplotlib
   - pandas
-  - geopandas
+  - matplotlib
+  - numpy
   # conda-forge
   - requests-cache
   - ipyleaflet
