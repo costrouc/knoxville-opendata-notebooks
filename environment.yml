@@ -3,16 +3,15 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
-  - geopandas
-  - requests
-  - jupyterlab
-  - pypdf2
-  - nodejs
-  - pandas
-  - matplotlib
-  - numpy
-  # conda-forge
-  - requests-cache
-  - ipyleaflet
   - pip:
+    - requests
     - requests-html
+    - requests-cache
+    - pypdf2
+    - numpy
+    - pandas
+    - matplotlib
+    - jupyterlab
+    - nodejs
+    - geopandas
+    - ipyleaflet
