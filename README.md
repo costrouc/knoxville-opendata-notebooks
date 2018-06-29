@@ -15,6 +15,25 @@ data.
 
 # Resources
 
+Sometimes multiple links for each data source exist. I will always
+prefer them in this order: csv, json, geojson, excel, ... and
+others. A check indicates that the data has a notebook and it ready to
+play with! See binder link above for interacting with data.
+
+## knoxmpc.org/opendata
+
+Metropolitan Planning Commission (MPC) collects data to support its
+planning efforts in Knoxville and Knox County. This data is not just
+valuable to our agency, it is valuable to Knox County citizens.
+
+ - [X] [Greenwas and Trails](https://knoxgis.maps.arcgis.com/home/item.html?id=5c1c99f1e6f94e60aec8325646473ab3)
+
+ - [X] [Parks](https://knoxgis.maps.arcgis.com/home/item.html?id=2e82b2c2576441d6973dacad3173d36e)
+ 
+ - [X] [Knoxville County Zoning](https://knoxgis.maps.arcgis.com/home/item.html?id=ca4ac10098dd4de995b16312c83665f4)
+
+## knoxvilletn.gov/government/opendata
+
 Here are some the data sources listed on the [knoxville open data website](http://knoxvilletn.gov/government/opendata/). A checked item indicates that the data has been parsed or is being worked on.
 
  - [X] [311 Performance Measures: Monthly reports of 311 requests](http://knoxvilletn.gov/government/city_departments_offices/311/performance_measures/)
