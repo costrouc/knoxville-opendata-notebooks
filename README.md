@@ -8,19 +8,28 @@ is used only as a mirror for visibility**
 
 I wanted to create some parsers on the data that knoxville provides
 and make it more accessible for others. The goal of this work is to
-provide easily accessible `csv` and `json` files of the data.
+provide easily accessible `csv`, `json` and `geojson` files of the
+data. Also this can be thought of as a place to centralize the data
+and allow users to brainstorm on how they can use the data.
 
-I will be providing a binder notebook to help with exploration of the
-data.
+An awesome binder notebook is provided to help with exploration of the
+data. A binder notebooks is an jupyter notebook plus a google cloud
+free compute instance. This means that only a web brower is needed to
+program and explore the data.  While we could have created interactive
+dashboards of the data this does not allow enough flexibility for the
+user to be able to ask any question they may have. You will find that
+the for each notebook the data is preloaded and a few simple questions
+are solved.
 
 [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
 
 # Resources
 
 Sometimes multiple links for each data source exist. I will always
-prefer them in this order: csv, json, geojson, excel, ... and
-others. A check indicates that the data has a notebook and it ready to
-play with! See binder link above for interacting with data.
+prefer open easy to parse data. Usually I get them in this order:
+`csv`, `json`, `geojson`, `excel`, ... and others in no particular. A
+check indicates that the data has a notebook and it ready to play
+with! See binder link above for interacting with data.
 
 ## knoxmpc.org/opendata
 
