@@ -1,3 +1,5 @@
+# pip is being used for most of installation
+# it has been more stable for some unknown reason (geopandas)
 name: knoxvilleopendata
 channels:
   - conda-forge
