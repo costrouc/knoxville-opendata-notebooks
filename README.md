@@ -2,6 +2,8 @@
 [Gitlab](https://gitlab.com/costrouc/knoxville-opendata-notebooks). Github
 is used only as a mirror for visibility**
 
+![knoxville zoning](images/zoning-colors.png)
+
 # Knoxville OpenData Notebooks
 
 I wanted to create some parsers on the data that knoxville provides
