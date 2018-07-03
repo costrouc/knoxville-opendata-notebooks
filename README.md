@@ -1,7 +1,3 @@
-**All issues and contributions should be done on
-[Gitlab](https://gitlab.com/costrouc/knoxville-opendata-notebooks). Github
-is used only as a mirror for visibility**
-
 ![knoxville zoning](images/zoning-colors-trimmed.png)
 
 # Knoxville OpenData Notebooks
@@ -21,7 +17,7 @@ user to be able to ask any question they may have. You will find that
 the for each notebook the data is preloaded and a few simple questions
 are solved.
 
-[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/costrouc/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/knoxdata/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
 
 # Resources
 
@@ -88,14 +84,11 @@ Here are some the data sources listed on the [knoxville open data website](http:
 # Contributing
 
 All contributions, bug reports, bug fixes, documentation improvements,
-enhancements and ideas are welcome! These should be submitted at the
-[Gitlab
-repository](https://gitlab.com/costrouc/knoxville-opendata-notebooks). Github
-is only used for visibility. If you are storing any data files with
-the commit make sure to use [LFS](https://git-lfs.github.com/).
-
-Contributors:
- - Chris Ostrouchov [(maintainer)](https://gitlab.com/costrouc/)
+enhancements and ideas are welcome! If you are storing any data files
+with the commit make sure to use
+[LFS](https://git-lfs.github.com/). Keep in mind the [strict
+limits](https://help.github.com/articles/about-storage-and-bandwidth-usage/)
+Github has on free LFS.
 
 # License
 
