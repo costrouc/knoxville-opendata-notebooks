@@ -19,6 +19,8 @@ are solved.
 
 [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/knoxdata/knoxville-opendata-notebooks/master?urlpath=lab/tree/notebooks/Overview.ipynb)
 
+[![pipeline status](https://gitlab.com/costrouc/knoxville-opendata-notebooks/badges/master/pipeline.svg)](https://gitlab.com/costrouc/knoxville-opendata-notebooks/commits/master)
+
 # Resources
 
 Sometimes multiple links for each data source exist. I will always
